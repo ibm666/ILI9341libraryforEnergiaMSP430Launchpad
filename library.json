@@ -2,7 +2,7 @@
   "name": "ILI9341",
   "keywords": "display, tft, lcd, graphics, spi",
   "description": "Seeed ILI9341 2.2 TFT+SD library",
-  "author":
+  "authors":
   {
     "name": "Radoslav Malinov",
     "url": "https://github.com/ibm666"
