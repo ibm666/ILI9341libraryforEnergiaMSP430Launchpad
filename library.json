@@ -1,7 +1,7 @@
 {
-  "name": "MSP430-Energia-ILI9341",
+  "name": "ILI9341",
   "keywords": "display, tft, lcd, graphics, spi",
-  "description": "2.2 TFT LCD ILI9341 library for Energia MSP430 Launchpad",
+  "description": "Seeed ILI9341 2.2 TFT+SD library",
   "author":
   {
     "name": "Radoslav Malinov",
@@ -9,5 +9,7 @@
   },
   "version": "959ac38622",
   "downloadUrl": "https://github.com/ibm666/ILI9341libraryforEnergiaMSP430Launchpad/raw/master/EnergiaILI9341MSP430.zip",
-  "include": "ili9341energiamaster"
+  "include": "ili9341energiamaster",
+  "frameworks": "energia",
+  "platforms": "timsp430"
  }
